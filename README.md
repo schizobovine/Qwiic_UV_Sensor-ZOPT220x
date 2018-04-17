@@ -1,4 +1,4 @@
-Qwiic UV Sensor - ZZOPT2201
+Qwiic UV Sensor - ZOPT2201
 ========================================
 
 ![Qwiic UV Sensor](https://cdn.sparkfun.com//assets/parts/1/2/2/1/5/Qwiic_UV_Sensor_-_ZOPT2201_01.jpg)
@@ -9,17 +9,16 @@ The ZOPT2201 is an excellent UVBS (ultraviolet energy sensor) in that it does tr
 
 The [Qwiic system](http://www.sparkfun.com/qwiic) enables fast and solderless connection between popular platforms and various sensors and actuators. You can read more about the Qwiic system [here](http://www.sparkfun.com/qwiic). 
 
+
 License Information
 -------------------
 
 This product is _**open source**_!
 
-Please review the LICENSE.md file for license information.
-
-If you have any questions or concerns on licensing, please contact techsupport@sparkfun.com.
+Please review the LICENSE.md file for license information...but SF accidentally forgot to include that. I defer to them on whatever the license "should" be; I normally just slap GPLv2 on stuff but don't want to crimp their style if they need to commercialize it (I am building on their work after all).
 
 Distributed as-is; no warranty is given.
 
-- Your friends at SparkFun.
-
 _<COLLABORATION CREDIT>_
+
+This library is built on @nseidle's excellent example code, available [here](https://github.com/sparkfunX/Qwiic_UV_Sensor-ZOPT220x). I just wanted a library I could drop in my existing UV sensor testing code.
